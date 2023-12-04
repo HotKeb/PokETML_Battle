@@ -1,5 +1,4 @@
 # PokETML_Battle
-# PokETML_Battle
 
 ##English Version
 
