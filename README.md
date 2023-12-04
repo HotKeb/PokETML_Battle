@@ -20,10 +20,10 @@ To test this game, the use of external applications that can load HTML, CSS and 
 As a recommendation, the use of Microsoft Visual Code and its Live Service extension guarantees the functionality of this program. 
 
 #Game instructions 
-The game works with buttons on the screen, interaction with the browser console and with the WASD keys as in-game movement. 
+The game works with buttons on the screen, interaction with the browser console and with the WASD keys as in-game movement
 
 #Gameplay
-For any doubt or desire to see the game in real time, you can view the gameplay saved in the Media folder. 
+For any doubt or desire to see the game in real time, you can view the gameplay in my youtube channel :  https://www.youtube.com/watch?v=-vS9GzT5QRw
 
 #References and sources
 Art by Me in Tilemap Software 
@@ -56,7 +56,7 @@ Como recomendacion, el uso de Microsoft Visual Code y su extension Live Service 
 El jeugo funciona con botones en la pantalla, interaccion con la consola del navegador y con las teclas WASD como movimineto en el juego. 
 
 #Gameplay
-Para cualquier duda o ganas de ver el juego en tiempo real, usted puede visualizar el gameplay guardado en la carpeta de Media. 
+Para cualquier duda o ganas de ver el juego en tiempo real, usted puede visualizar el gameplay en mi canal de youtube : https://www.youtube.com/watch?v=-vS9GzT5QRw
 
 #Referencias y fuentes
 Art by Me in Tilemap Software 
